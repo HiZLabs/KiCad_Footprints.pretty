@@ -1,9 +1,9 @@
 (module CUI_SDS-50J (layer F.Cu)
-  (fp_text reference CUI_SDS-50J (at -7.9 11.4) (layer F.SilkS)
-    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  (fp_text reference CUI_SDS-50J (at -9.1 0 90) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
-  (fp_text value VAL** (at -12.6 -11.2) (layer F.SilkS)
-    (effects (font (size 1.5 1.5) (thickness 0.15)))
+  (fp_text value VAL** (at -16.4 0 270) (layer F.SilkS)
+    (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
   (fp_line (start -15.8 10) (end 0 10) (layer F.SilkS) (width 0.15))
   (fp_line (start -15.8 -10) (end -15.8 10) (layer F.SilkS) (width 0.15))
