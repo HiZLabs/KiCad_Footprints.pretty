@@ -1,8 +1,8 @@
 (module CUI_PJ-102A (layer F.Cu)
-  (fp_text reference CUI_PJ-102A (at -11.4 3.7) (layer F.SilkS) hide
+  (fp_text reference >NAME (at -6.5 -5) (layer F.SilkS)
     (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
-  (fp_text value VAL** (at -6.1 -5.2) (layer F.SilkS)
+  (fp_text value >VALUE (at -9 3.9) (layer F.SilkS) hide
     (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
   (fp_line (start -3.5 -4.5) (end -3.5 4.5) (layer F.SilkS) (width 0.15))

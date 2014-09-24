@@ -1,9 +1,9 @@
 (module 0603 (layer F.Cu)
   (attr smd)
-  (fp_text reference 0603 (at 0 1.6) (layer F.SilkS)
+  (fp_text reference >NAME (at 0 -1.4) (layer F.SilkS)
     (effects (font (size 0.508 0.4572) (thickness 0.1143)))
   )
-  (fp_text value Val** (at 0 -1.5) (layer F.SilkS) hide
+  (fp_text value >VALUE (at 0 1.4) (layer F.SilkS) hide
     (effects (font (size 0.508 0.4572) (thickness 0.1143)))
   )
   (fp_line (start 0 0.5) (end 0 -0.5) (layer F.SilkS) (width 0.15))

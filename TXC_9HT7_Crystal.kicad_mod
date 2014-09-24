@@ -1,8 +1,8 @@
 (module TXC_9HT7_Crystal (layer F.Cu)
-  (fp_text reference RTC_Crystal (at 0 1.5) (layer F.SilkS) hide
+  (fp_text reference >NAME (at 0 -1.2) (layer F.SilkS)
     (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
-  (fp_text value VAL** (at 0 -1.2) (layer F.SilkS)
+  (fp_text value >VALUE (at 0 1.6) (layer F.SilkS) hide
     (effects (font (size 0.5 0.5) (thickness 0.1)))
   )
   (fp_line (start -1.7 -0.7) (end -1.7 0.6) (layer F.SilkS) (width 0.15))
