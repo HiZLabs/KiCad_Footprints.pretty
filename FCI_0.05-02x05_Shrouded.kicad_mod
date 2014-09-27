@@ -1,9 +1,9 @@
 (module FCI_0.05-02x05_Shrouded (layer F.Cu)
-  (fp_text reference >NAME (at -6.8 0 90) (layer F.SilkS)
-    (effects (font (size 0.5 0.5) (thickness 0.1)))
+  (fp_text reference >NAME (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
-  (fp_text value >VALUE (at 0 0 180) (layer F.SilkS) hide
-    (effects (font (size 0.5 0.5) (thickness 0.1)))
+  (fp_text value >VALUE (at -7.1 0 90) (layer F.SilkS)
+    (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_line (start -5.3 2.5) (end -4.9 1.9) (layer F.SilkS) (width 0.15))
   (fp_line (start -4.9 1.9) (end -4.5 2.5) (layer F.SilkS) (width 0.15))

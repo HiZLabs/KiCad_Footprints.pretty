@@ -1,9 +1,9 @@
 (module ABRACON_ABM3B (layer F.Cu)
-  (fp_text reference >NAME (at 0 -2.5) (layer F.SilkS)
-    (effects (font (size 0.5 0.5) (thickness 0.1)))
+  (fp_text reference >NAME (at 0 -0.7) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
-  (fp_text value >VALUE (at 0 0) (layer F.SilkS) hide
-    (effects (font (size 0.5 0.5) (thickness 0.1)))
+  (fp_text value >VALUE (at 0 0.8) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_line (start -1.1 0.2) (end -0.7 0.2) (layer F.SilkS) (width 0.15))
   (fp_line (start -0.7 0.2) (end -0.7 0.6) (layer F.SilkS) (width 0.15))

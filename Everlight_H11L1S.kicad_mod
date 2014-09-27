@@ -1,9 +1,9 @@
 (module Everlight_H11L1S placed (layer F.Cu)
-  (fp_text reference >NAME (at -4.1 0 90) (layer F.SilkS)
-    (effects (font (size 0.5 0.5) (thickness 0.1)))
+  (fp_text reference >NAME (at -0.1 -0.3 180) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
-  (fp_text value >VALUE (at 0 0 90) (layer F.SilkS) hide
-    (effects (font (size 0.5 0.5) (thickness 0.1)))
+  (fp_text value >VALUE (at -4.5 0 90) (layer F.SilkS) hide
+    (effects (font (size 1.016 1.016) (thickness 0.254)))
   )
   (fp_line (start -3.1 1.9) (end -2.5 2.6) (layer F.SilkS) (width 0.15))
   (fp_line (start -2.5 2.6) (end -2 1.9) (layer F.SilkS) (width 0.15))
